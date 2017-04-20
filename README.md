@@ -2,9 +2,19 @@
 
 Dashboard to explore an Ad Campaign dataset, visualize metrics and predict trends
 
-Runs locally or on top of Cloud Foundry
+# Run Locally 
 
-Live example: [http://adcampaign.cfapps.io](http://adcampaign.cfapps.io)
+Execute ```pip install -r requirements.txt```
+
+Then ```python adAnalysisDashboard.py```
+
+# Deploy to Cloud Foundry
+
+```cf login -a api.run.pivotal.io``` or target your own Cloud Foundry instance
+
+```cf push```
+
+Demo: [http://adcampaign.cfapps.io](http://adcampaign.cfapps.io) 
 
 # License
 
