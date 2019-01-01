@@ -14,7 +14,7 @@ Then ```python adAnalysisDashboard.py```
 
 ```cf push```
 
-Demo: [http://adcampaign.cfapps.io](http://adcampaign.cfapps.io) 
+Demo: [http://ad-campaign-dashboard.cfapps.io/](http://ad-campaign-dashboard.cfapps.io/) 
 
 # License
 
